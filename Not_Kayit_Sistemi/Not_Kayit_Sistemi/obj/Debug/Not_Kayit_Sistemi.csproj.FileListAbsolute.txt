@@ -1,0 +1,13 @@
+D:\Proje\MURATYÜCEDAĞ\Not_Kayit_Sistemi\Not_Kayit_Sistemi\bin\Debug\Not_Kayit_Sistemi.exe.config
+D:\Proje\MURATYÜCEDAĞ\Not_Kayit_Sistemi\Not_Kayit_Sistemi\bin\Debug\Not_Kayit_Sistemi.exe
+D:\Proje\MURATYÜCEDAĞ\Not_Kayit_Sistemi\Not_Kayit_Sistemi\bin\Debug\Not_Kayit_Sistemi.pdb
+D:\Proje\MURATYÜCEDAĞ\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.csproj.AssemblyReference.cache
+D:\Proje\MURATYÜCEDAĞ\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.csproj.SuggestedBindingRedirects.cache
+D:\Proje\MURATYÜCEDAĞ\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.FrmGiris.resources
+D:\Proje\MURATYÜCEDAĞ\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.FrmOğretmenDetay.resources
+D:\Proje\MURATYÜCEDAĞ\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.FrmÖğrenciDetay.resources
+D:\Proje\MURATYÜCEDAĞ\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.Properties.Resources.resources
+D:\Proje\MURATYÜCEDAĞ\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.csproj.GenerateResource.cache
+D:\Proje\MURATYÜCEDAĞ\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.csproj.CoreCompileInputs.cache
+D:\Proje\MURATYÜCEDAĞ\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.exe
+D:\Proje\MURATYÜCEDAĞ\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.pdb
